@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://polishperfectfloors.ca/sitemap.xml
