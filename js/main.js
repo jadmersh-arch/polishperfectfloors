@@ -272,7 +272,7 @@
       },
       'clear-coat': {
         title: 'Clear Coat',
-        html: '<p>Clear coat protects the colour. It is applied with care, as the last step that locks the work in.</p><p>Finishes are chosen for depth and clarity, so the timber stays visible beneath a protective coat.</p><p>The finished floor has a clear, even coat that protects the colour and the work beneath it.</p>'
+        html: '<p>Clear coat protects the colour. It is applied with care as the final step, sealing and protecting the work.</p><p>Finishes are chosen for depth and clarity, allowing the natural beauty of the timber to remain visible beneath a protective coat.</p><p>Where needed, we can also apply an anti-slip coating to provide additional grip and improve floor safety.</p><p>The finished floor has a smooth, even, protective finish that preserves the colour and enhances the beauty of the timber.</p>'
       }
     };
     var openSvc = function (key, btn) {
